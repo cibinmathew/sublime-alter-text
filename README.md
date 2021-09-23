@@ -1,7 +1,7 @@
 # alter-text
 
 Quickly alter text in Sublime Text.
-
+- `replace_text_with`:  Replace selected text with equivalent spaces
 ## How to Use
 
 From Command palette, run `Alter Text: Replace with spaces`
