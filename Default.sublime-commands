@@ -1,0 +1,6 @@
+[
+  {
+    "caption": "Alter Text: Replace with spaces",
+    "command": "replace_text_with"
+  }
+]
