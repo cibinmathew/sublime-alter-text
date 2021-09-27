@@ -20,7 +20,10 @@ Use below
 ### Install with Package Control
 todo
 
-### RoadMap
+### TODOs
+- [ ] Submit to package control channel
+- [ ] Add multi cursor modifications
+- [ ] Add FAQ
 
 ## FAQ
 todo
