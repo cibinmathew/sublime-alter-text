@@ -8,8 +8,7 @@ Quickly alter text in Sublime Text.
 
 From Command palette, run `Alter Text: Replace with spaces`
 
-No default keybinding is provided
-Use below
+No default keybinding is provided. Use below as necessary
 ```
 [
     { "keys": ["ctrl+r"], "command": "replace_text_with" }
