@@ -2,6 +2,8 @@
 
 Quickly alter text in Sublime Text.
 - `replace_text_with`:  Replace selected text with equivalent number of spaces
+- Cycle between snake, title, pascal, camel and original
+- Collapse whites in the order of to (no space if leading spaces, single line, to single space)
 - todo
 
 ## How to Use
