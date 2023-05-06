@@ -1,6 +1,16 @@
 [
   {
     "caption": "Alter Text: Replace with spaces",
-    "command": "replace_text_with"
+    "command": "replace_text_with",
+    "args": {
+      "replacement": " "
+    }
+  },
+  {
+    "caption": "Alter Text: Replace with hyphen(-)",
+    "command": "replace_text_with",
+    "args": {
+      "replacement": "-"
+    }
   }
 ]
