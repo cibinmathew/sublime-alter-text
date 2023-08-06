@@ -40,4 +40,4 @@ todo
 
 ### License
 
-[MIT License][opensource].
+[MIT License](./LICENSE)
