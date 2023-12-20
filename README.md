@@ -20,10 +20,11 @@ No default keybinding is provided. Use like below as necessary
 ## How to Install
 
 ### Install with Package Control
-todo
+To Install via [Package Control](https://packagecontrol.io/). 
+- Search for package: `Alter Text`
 
 ### TODOs
-- [ ] Submit to package control channel
+- [x] Submit to package control channel
 - [ ] Add multi cursor modifications
 - [ ] Add FAQ
 
